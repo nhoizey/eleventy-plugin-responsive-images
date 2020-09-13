@@ -1,3 +1,3 @@
-# `eleventy-plugin-images-responsiver` now lives in the same monorepo as `images-responsiver`
+# ARCHIVED REPOSITORY
 
-Find it here: <https://github.com/nhoizey/images-responsiver/tree/main/packages/eleventy-plugin-images-responsiver>
+**`eleventy-plugin-images-responsiver` now lives in [the same monorepo as `images-responsiver`](https://github.com/nhoizey/images-responsiver/tree/main/packages/eleventy-plugin-images-responsiver).**
